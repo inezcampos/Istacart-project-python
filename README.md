@@ -1,5 +1,5 @@
 # Istacart_project
-The project is part of the Career Foundry data analysis course. The focus is a fictious online company - Instacart - which operates through an app. The company has been pretty successful yet aims to gain further insight into its customers' profiles and sales trends. The data analysis uses Python. The analysis draws on a fabricated dataset and aims to derive insights that can contribute to new marketing and sales strategies for the company.
+The project is part of the Career Foundry data analysis course. The focus is a fictious online company - Instacart - which operates through an app. The company has been pretty successful yet aims to gain further insight into its customers' profiles and sales trends. The data analysis uses **Python**. The analysis draws on a fabricated dataset and aims to derive insights that can contribute to new marketing and sales strategies for the company.
 ## Key Questions
 The sales team needs to know what the busiest days of the week and hours of the day
 are (i.e., the days and times with the most orders) in order to schedule ads at times
