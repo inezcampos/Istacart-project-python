@@ -18,6 +18,10 @@ often do they return to Instacart)?
 * Are there differences in ordering habits based on a customer’s loyalty status?
 * Are there differences in ordering habits based on a customer’s region?
 * Is there a connection between age and family status in terms of ordering habits?
+## Data
+The dataset is fabricated and is available [here](https://www.instacart.com/datasets/grocery-shopping-2017).
+Citation for dataset: “The Instacart Online Grocery Shopping Dataset
+2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 12 December 2022
 ## Key Results
 * The Weekend is a key time for customers to pose orders, so any staff additions should be made for weekend days. Also, working hours from 9:00 to 17:00 are when the majority of orders are placed, so stocks and staff need to be fully prepared during those hours.
 * During the times when customers spend more money, the order platform should make an effort to advertise higher cost products. On  the other hand, slower times of the day are a good opportunity to introduce promotions for key products that are higher in stock.
